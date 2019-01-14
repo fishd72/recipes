@@ -1,5 +1,7 @@
 # Recipes for use with AutoPKG
 
+_Moved to AutoPKG/fishd72-recipes_
+
 Mainly a bunch of stuff I'm experimenting with that are using other folks recipes upstream.
 
 -   AppCleaner - depends on jleggat-recipes
